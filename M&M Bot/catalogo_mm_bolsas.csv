@@ -1,0 +1,36 @@
+codigo,modelo,cor,preco,estoque,material,tamanho,descricao
+B01,Pasta para Notebook,grafite com caramelo,189.90,3,nylon impermeável,grande,"pasta impermeável com compartimento para notebook, vários bolsos, alça de mão e alça transversal"
+B02,Pasta para Notebook,cinza-rosado com vinho,189.90,2,nylon impermeável,grande,"pasta impermeável com compartimento para notebook, vários bolsos, alça de mão e alça transversal"
+B03,Pasta para Notebook,azul acinzentado com caramelo,189.90,0,nylon impermeável,grande,"pasta impermeável com compartimento para notebook, vários bolsos, alça de mão e alça transversal"
+B04,Pasta para Notebook,preta com caramelo,189.90,4,nylon impermeável,grande,"pasta impermeável com compartimento para notebook, vários bolsos, alça de mão e alça transversal"
+B05,Pasta para Notebook,vinho com caramelo,189.90,1,nylon impermeável,grande,"pasta impermeável com compartimento para notebook, vários bolsos, alça de mão e alça transversal"
+B06,Pasta para Notebook,azul-marinho com caramelo,189.90,2,nylon impermeável,grande,"pasta impermeável com compartimento para notebook, vários bolsos, alça de mão e alça transversal"
+B07,Bolsa Hobo Trama,bege dourado com marrom,159.90,2,tecido trançado com detalhes em couro sintético,grande,"bolsa espaçosa de tecido trançado vazado, alça de ombro e alça transversal"
+B08,Bolsa Hobo Trama,bronze com caramelo,159.90,1,tecido trançado com detalhes em couro sintético,grande,"bolsa espaçosa de tecido trançado vazado, alça de ombro e alça transversal"
+B09,Transversal Fecho Dourado,marrom chocolate,129.90,3,couro sintético,pequena,"bolsa transversal de couro liso com fecho dourado em arco, alça regulável"
+B10,Transversal Fecho Dourado,caramelo,129.90,2,couro sintético,pequena,"bolsa transversal de couro liso com fecho dourado em arco, alça regulável"
+B11,Transversal Fecho Dourado,off-white,129.90,4,couro sintético,pequena,"bolsa transversal de couro liso com fecho dourado em arco, alça regulável"
+B12,Transversal Fecho Dourado,vinho,129.90,0,couro sintético,pequena,"bolsa transversal de couro liso com fecho dourado em arco, alça regulável"
+B13,Transversal Fecho Dourado,preta,129.90,5,couro sintético,pequena,"bolsa transversal de couro liso com fecho dourado em arco, alça regulável"
+B14,Transversal Fecho Dourado,cinza,129.90,2,couro sintético,pequena,"bolsa transversal de couro liso com fecho dourado em arco, alça regulável"
+B15,Transversal Monograma com Moedeira,preta,139.90,3,couro sintético estampado,média,"bolsa transversal estampada em losangos, acompanha moedeira redonda, alça larga"
+B16,Transversal Monograma com Moedeira,bege com marrom,139.90,2,couro sintético estampado,média,"bolsa transversal estampada em losangos, acompanha moedeira redonda, alça larga"
+B17,Transversal Monograma com Moedeira,marrom com caramelo,139.90,1,couro sintético estampado,média,"bolsa transversal estampada em losangos, acompanha moedeira redonda, alça larga"
+B18,Transversal Monograma com Moedeira,off-white com caramelo,139.90,2,couro sintético estampado,média,"bolsa transversal estampada em losangos, acompanha moedeira redonda, alça larga"
+B19,Tote Estruturada,preta,179.90,3,couro sintético texturizado,grande,"bolsa estruturada com alças de ombro, medalhinha dourada e alça transversal"
+B20,Tote Estruturada,vermelha,179.90,1,couro sintético texturizado,grande,"bolsa estruturada com alças de ombro, medalhinha dourada e alça transversal"
+B21,Tote Estruturada,off-white com caramelo,179.90,2,couro sintético texturizado,grande,"bolsa estruturada com alças de ombro, medalhinha dourada e alça transversal"
+B22,Tote Estruturada,bege com marrom,179.90,0,couro sintético texturizado,grande,"bolsa estruturada com alças de ombro, medalhinha dourada e alça transversal"
+B23,Tote Estruturada,caramelo,179.90,2,couro sintético texturizado,grande,"bolsa estruturada com alças de ombro, medalhinha dourada e alça transversal"
+B24,Tote Estruturada,verde oliva,179.90,2,couro sintético texturizado,grande,"bolsa estruturada com alças de ombro, medalhinha dourada e alça transversal"
+B25,Bolsa Trapézio Texturizada,nude com marrom,149.90,2,couro sintético texturizado,média,"bolsa em formato trapézio com textura trançada, plaquinha frontal e alça de ombro"
+B26,Bolsa Trapézio Texturizada,branca com caramelo,149.90,1,couro sintético texturizado,média,"bolsa em formato trapézio com textura trançada, plaquinha frontal e alça de ombro"
+B27,Bolsa Trapézio Texturizada,caramelo,149.90,3,couro sintético texturizado,média,"bolsa em formato trapézio com textura trançada, plaquinha frontal e alça de ombro"
+B28,Bolsa Trapézio Texturizada,preta,149.90,4,couro sintético texturizado,média,"bolsa em formato trapézio com textura trançada, plaquinha frontal e alça de ombro"
+B29,Bolsa Trapézio Texturizada,marrom,149.90,0,couro sintético texturizado,média,"bolsa em formato trapézio com textura trançada, plaquinha frontal e alça de ombro"
+B30,Bolsa Baú Couro Envelhecido,marrom,169.90,2,couro sintético efeito envelhecido,média,bolsa baú com alça de mão curta e alça transversal larga
+B31,Bolsa Baú Couro Envelhecido,café,169.90,1,couro sintético efeito envelhecido,média,bolsa baú com alça de mão curta e alça transversal larga
+B32,Bolsa Baú Couro Envelhecido,camelo,169.90,3,couro sintético efeito envelhecido,média,bolsa baú com alça de mão curta e alça transversal larga
+B33,Bolsa Baú Couro Envelhecido,conhaque,169.90,2,couro sintético efeito envelhecido,média,bolsa baú com alça de mão curta e alça transversal larga
+B34,Bolsa Baú Couro Envelhecido,preta,169.90,4,couro sintético efeito envelhecido,média,bolsa baú com alça de mão curta e alça transversal larga
+B35,Bolsa Baú Couro Envelhecido,areia,169.90,2,couro sintético efeito envelhecido,média,bolsa baú com alça de mão curta e alça transversal larga
